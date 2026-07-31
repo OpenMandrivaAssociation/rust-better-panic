@@ -5,8 +5,8 @@
 %global crate better-panic
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        0.3.0
+Release:        1%{?dist}
 Summary:        Pretty panic backtraces inspired by Python's tracebacks
 
 # Upstream license specification: MIT OR Apache-2.0
